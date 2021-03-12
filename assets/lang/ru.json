@@ -1,0 +1,39 @@
+{
+
+    "autorization":"Авторизация",
+    "email":"Почта",
+    "password":"Пароль",
+    "specifyEmail":"Укажите e-mail",
+    "specifyPassword":"Укажите пароль",
+    "rememberLogin":"Запомнить вход",
+    "forgotYourPassword":"Забыли пароль?",
+    "entrance":"Войти",
+    "rememberMe":"Запомнить вход",
+
+
+    "thereIsNoUserWithSuchEmail":"*Пользователя с такой почтой не существует",
+    "emailOrPasswordEnteredIncorrectly":"*Почта или пароль введены неверно",
+    "autorisationError":"Ошибка авторизации",
+    "tryToCheckInternetAlert":"Попробуйте проверить свое интернет соединение и войти в систему через несколько минут.",
+    "okay":"Хорошо",
+
+
+    "passwordRecovery":"Восстановление пароля",
+    "getNewPasswordLinkAlert":"Введите адрес электронной почты и получите ссылку с новым паролем.",
+    "confirm":"Подтвердить",
+
+
+    "registration":"Регистрация",
+    "surname":"Фамилия",
+    "name":"Имя",
+    "middleName":"Отчество",
+    "city":"Город",
+    "phoneNumber":"Номер телефона",
+    "registerNow":"Зарегистрироваться"
+
+
+    
+
+
+ 
+}
